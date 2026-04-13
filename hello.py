@@ -1,2 +1,2 @@
-# from local
+# local repository
 print("Hello World")
